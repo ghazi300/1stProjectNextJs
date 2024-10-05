@@ -40,3 +40,7 @@ a {
     color-scheme: dark;
   }
 }
+.main-dev{
+  background:rgb(191, 86, 191);
+  height:100vh;
+}
